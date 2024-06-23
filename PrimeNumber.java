@@ -1,6 +1,6 @@
 public class PrimeNumber {
     public static void main(String[] args) {
-        int number = 29; // You can change this number to test other values
+        int number = 36; // You can change this number to test other values
         boolean isPrime = true;
 
         for (int i = 2; i <= number / 2; ++i) {
